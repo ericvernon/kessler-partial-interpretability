@@ -1,0 +1,4 @@
+kesslergame
+numpy
+gymnasium[classic-control]
+stable-baselines3[extra]
